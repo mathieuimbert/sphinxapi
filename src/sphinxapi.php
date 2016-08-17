@@ -1,5 +1,7 @@
 <?php
 
+namespace MathieuImbert\Sphinx;
+
 //
 // $Id: sphinxapi.php,v 1.1 2012-06-14 18:26:55 cvs Exp $
 //
