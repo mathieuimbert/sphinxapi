@@ -1,4 +1,5 @@
-![Travis CI](https://travis-ci.org/mathieuimbert/sphinxapi.svg?branch=master)
+[![Build Status](https://travis-ci.org/mathieuimbert/sphinxapi.svg?branch=master)](https://travis-ci.org/mathieuimbert/sphinxapi)
+[![Coverage Status](https://coveralls.io/repos/github/mathieuimbert/sphinxapi/badge.svg?branch=master)](https://coveralls.io/github/mathieuimbert/sphinxapi?branch=master)
 
 # sphinxapi
 
