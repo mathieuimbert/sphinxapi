@@ -1,7 +1,11 @@
 language: php
+
 php:
   - '7.0'
-before_script: wget http://downloads.atoum.org/nightly/mageekguy.atoum.phar
-script: php mageekguy.atoum.phar
-install:
+
+before_script:
+ - composer require satooshi/php-coveralls ~1.0.0
  - composer update
+
+after_script:
+  - php vendor/bin/coveralls -v
