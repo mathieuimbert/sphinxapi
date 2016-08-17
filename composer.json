@@ -1,0 +1,12 @@
+{
+    "name": "mathieuimbert/sphinxapi",
+    "description": "This is a wrapper for the official sphinx api, and the code is slightly modified to support PHP 7",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mathieu Imbert",
+            "email": "mathieu.imbert@gmail.com"
+        }
+    ],
+    "require": {}
+}
